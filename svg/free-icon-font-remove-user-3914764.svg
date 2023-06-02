@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   height="512"
+   viewBox="0 0 24 24"
+   width="512"
+   data-name="Layer 1"
+   version="1.1"
+   sodipodi:docname="free-icon-font-remove-user-3914764.svg"
+   inkscape:export-filename="..\Desktop\del_worker.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs147" />
+  <sodipodi:namedview
+     id="namedview145"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.6542969"
+     inkscape:cx="255.69776"
+     inkscape:cy="256.30224"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <path
+     d="m3 6a6 6 0 1 1 6 6 6 6 0 0 1 -6-6zm10.043 8h-8.086a4.963 4.963 0 0 0 -4.957 4.957v5.043h18v-5.043a4.963 4.963 0 0 0 -4.957-4.957zm2.957-4v2h8v-2z"
+     id="path142"
+     style="fill:#ff6600" />
+</svg>
